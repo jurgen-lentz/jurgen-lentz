@@ -34,6 +34,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.gurobi.com/" target="_blank"> 
     <img src="https://avatars.githubusercontent.com/u/15114496?s=200&v=4" alt="gurobi" width="40" height="40"/> 
   </a> 
+  <a href="https://scipopt.org/" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/19473229?s=200&v=4" alt="scip" width="40" height="40"/> 
+  </a> 
 </p>
 
 <h3 align="left">AI/ML:</h3>
