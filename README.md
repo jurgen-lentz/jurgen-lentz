@@ -29,6 +29,13 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+<h3 align="left">Optimization:</h3>
+<p align="left">
+  <a href="https://www.gurobi.com/" target="_blank"> 
+    <img src="gurobi.png" alt="gurobi" width="40" height="40"/> 
+  </a> 
+</p>
+
 <h3 align="left">AI/ML:</h3>
 <p align="left">
   <a href="https://pytorch.org/" target="_blank"> 
