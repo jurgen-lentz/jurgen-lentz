@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Optimization:</h3>
 <p align="left">
   <a href="https://www.gurobi.com/" target="_blank"> 
-    <img src="./gurobi.png" alt="gurobi" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/15114496?s=200&v=4" alt="gurobi" width="40" height="40"/> 
   </a> 
 </p>
 
