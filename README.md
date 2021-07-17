@@ -66,6 +66,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Others:</h3>
 <p align="left">
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> 
+  </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
