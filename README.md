@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 #### GitHub Stats
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=yetudada&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/jurgen-lentz)
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=jurgen-lentz&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/jurgen-lentz)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
